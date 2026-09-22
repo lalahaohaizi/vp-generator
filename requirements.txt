@@ -1,0 +1,6 @@
+# 核心依赖：用于调用 DeepSeek / OpenAI 兼容接口
+openai>=1.0.0
+
+# 数据校验依赖：用于 master table 的结构化 Schema 验证
+# （虽然代码中做了 try-except 降级处理，但为了保障数据完整性，强烈建议安装）
+pydantic>=2.0.0
