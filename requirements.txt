@@ -1,6 +1,7 @@
-# ºËÐÄÒÀÀµ£ºÓÃÓÚµ÷ÓÃ DeepSeek / OpenAI ¼æÈÝ½Ó¿Ú
+# ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Úµï¿½ï¿½ï¿½ DeepSeek / OpenAI ï¿½ï¿½ï¿½Ý½Ó¿ï¿½
 openai>=1.0.0
-
-# Êý¾ÝÐ£ÑéÒÀÀµ£ºÓÃÓÚ master table µÄ½á¹¹»¯ Schema ÑéÖ¤
-# £¨ËäÈ»´úÂëÖÐ×öÁË try-except ½µ¼¶´¦Àí£¬µ«ÎªÁË±£ÕÏÊý¾ÝÍêÕûÐÔ£¬Ç¿ÁÒ½¨Òé°²×°£©
 pydantic>=2.0.0
+
+# Agentic layer (optional â€” pmc_patients falls back to substring ranking without them)
+# datasets  # for HF download helper (huggingface-cli)
+# rank-bm25 # for BM25 when FTS5 is unavailable

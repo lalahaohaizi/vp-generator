@@ -1,0 +1,26 @@
+[
+  {
+    "code": "EA90",
+    "title": "Psoriasis",
+    "definition": "Psoriasis is a chronic immune-mediated inflammatory skin disease characterized by well-demarcated erythematous plaques with silvery scale, commonly on extensor surfaces and scalp, with a relapsing-remitting course.",
+    "children": []
+  },
+  {
+    "code": "EA80",
+    "title": "Atopic dermatitis",
+    "definition": "Atopic dermatitis is a chronic pruritic inflammatory skin disease with eczematous lesions, typically in flexural areas, associated with skin barrier dysfunction and immune dysregulation, often with a relapsing course.",
+    "children": []
+  },
+  {
+    "code": "EA87",
+    "title": "Contact dermatitis",
+    "definition": "Contact dermatitis is an inflammatory skin reaction caused by direct contact with an irritant or allergen, presenting as erythema, vesicles or eczematous patches at the contact site.",
+    "children": []
+  },
+  {
+    "code": "EE40",
+    "title": "Alopecia areata",
+    "definition": "Alopecia areata is an autoimmune disorder causing non-scarring hair loss, presenting as well-circumscribed patches of hair loss on scalp or body, with a variable and often recurrent course.",
+    "children": []
+  }
+]
